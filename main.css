@@ -1,0 +1,13 @@
+html {
+	font-family: "Courier New", Courier, monospace;
+	border: solid 1px black;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 15px;
+};
+
+.contact-photo {
+	display: inline-block;
+	vertical-align: top;
+	float: left;
+};
